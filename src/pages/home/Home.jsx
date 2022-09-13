@@ -5,7 +5,8 @@ import ProfileSide from '../../Components/profileSide/ProfileSide'
 const Home = () => {
     return (
     <div className='Home'>
-        <ProfileSide/>
+        <ProfileSide></ProfileSide>
+        <Home></Home>
         <div className='postSide'>Post</div>
         <div className='profileSide'>Rightside</div>
     </div>
