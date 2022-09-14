@@ -1,5 +1,6 @@
 import React from 'react'
 import LogoSearch from '../LogoSearch/LogoSearch'
+import '../LogoSearch/LogoSearch.css'
 
 const ProfileSide = () => {
     return (
